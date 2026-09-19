@@ -16,7 +16,7 @@
 
 ```bash
 # 1) 설치 (한 번만)
-git clone https://github.com/immortal0900/THE_FORGE.git && cd THE_FORGE
+git clone https://github.com/hwain-ai/THE_FORGE.git && cd THE_FORGE
 uv sync && uv tool install .
 # 코드 수정 후 재배포는: python scripts/deploy.py  (docs/DEV.md §4)
 
